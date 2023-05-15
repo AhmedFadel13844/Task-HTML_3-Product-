@@ -1,0 +1,9 @@
+
+header h1 {
+ border-bottom: 1px solid black;
+}
+header div{margin: 20px auto;width: 20%;border: 1px solid black;}
+header img {
+ width: 100%;
+}
+input{text-transform: capitalize;cursor: pointer;}
